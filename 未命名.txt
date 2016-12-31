@@ -9,3 +9,4 @@
 \
 git config \'97global user.name \'93\'94\
 git config \'97global user.email \'93\'94}
+github
